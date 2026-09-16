@@ -5,5 +5,6 @@
 -hhtps://ubuntu.com
 -https://fedoraproject.org
 -https://redhead.com
-##to do
--[] musim si dopsat vsechny weby
+##todo
+- [ ] musim si dopsat vsechny weby
+- [x] -splnen ukol cislo 1-
