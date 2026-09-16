@@ -5,3 +5,5 @@
 -hhtps://ubuntu.com
 -https://fedoraproject.org
 -https://redhead.com
+##to do
+-[] musim si dopsat vsechny weby
