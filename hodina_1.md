@@ -5,6 +5,6 @@
 - https://ubuntu.com/
 - https://fedoraproject.org
 - https://redhead.com
- ##todo
+ ## todo
 - [ ] musim si dopsat vsechny weby
 - [x] -splnen ukol cislo 1-
